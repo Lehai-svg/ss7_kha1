@@ -19,5 +19,5 @@
 - Không được sử dụng trong nhiều chiến lược của query planner
 - Khó bảo trì và ít lợi thế hơn b-tree
 
-➡ Vì vậy postgresql **khuyến nghị sử dụng b-tree thay cho hash index**  
+==> Vì vậy postgresql **khuyến nghị sử dụng b-tree thay cho hash index**  
 trong hầu hết các trường hợp.
